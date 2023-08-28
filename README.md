@@ -12,6 +12,20 @@ yarn dev
 pnpm dev
 ```
 
+## Environment Variables
+
+```
+Get it from: https://cloud.appwrite.io/console
+
+NEXT_PUBLIC_APPWRITE_PROJECT_ID=''
+NEXT_PUBLIC_DATABASE_ID=''
+NEXT_PUBLIC_TODOS_COLLECTION_ID=''
+
+Get it from: https://platform.openai.com/account/api-keys
+
+OPENAI_API_KEY=''
+```
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
